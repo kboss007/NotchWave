@@ -30,6 +30,8 @@ NotchWave enables **Open at login** the first time you run it from Applications.
 
 While an app is in full screen, open NotchWave’s menu-bar panel and turn on **Fill top bar in full screen** under **Waveform size**. Leave it off to use your usual notch-side layout in full screen. The control appears only in full screen.
 
+Starting with version 0.14.26, NotchWave checks for public releases shortly after launch and every six hours while it runs. A dot on the menu-bar icon means an update is available. Open the panel and choose **Download Update**, then install it from the disk image. Use **Check for Updates** at the bottom of the panel to check immediately.
+
 ## License
 
 Copyright © 2026 kboss007. You may install and run the official app under the [NotchWave Software License](LICENSE). Rights to the source code and artwork are reserved.
