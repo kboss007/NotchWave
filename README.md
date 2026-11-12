@@ -28,6 +28,8 @@ This release is ad hoc signed. If macOS blocks the first launch, open **System S
 
 NotchWave enables **Open at login** the first time you run it from Applications. Use the switch at the bottom of the menu-bar panel to change this. If macOS asks for approval, choose **Approve in Login Items…** in the panel.
 
+While an app is in full screen, open NotchWave’s menu-bar panel and turn on **Fill top bar in full screen** under **Waveform size**. Leave it off to use your usual notch-side layout in full screen. The control appears only in full screen.
+
 ## License
 
 Copyright © 2026 kboss007. You may install and run the official app under the [NotchWave Software License](LICENSE). Rights to the source code and artwork are reserved.
